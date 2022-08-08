@@ -1,0 +1,14 @@
+# delete existing target directory
+rm -rf target
+
+# create new target directory
+mkdir target
+
+# compile Program.java file and place Program.class file in target directory
+# flag -d -- specify where to place generated class files
+javac -d ./target src/java/edu.school21.printer/app/Program.java src/java/edu.school21.printer/logic/Logic.java
+
+# declare the path to .class files and run .class files
+# flag -classpath or -cp -- specify path for user class files
+java -cp target edu.school21.printer.app.Program '.' '0' /Users/mkoch/Desktop/it.bmp
+

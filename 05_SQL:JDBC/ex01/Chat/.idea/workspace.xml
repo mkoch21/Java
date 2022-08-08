@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dffb8ac-c7f2-421b-a92a-469ba03e1eb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Day05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_postgresql_postgresql_42_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/libraries/Maven__org_slf4j_slf4j_nop_1_7_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex03/.idea/ex03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex00/Chat/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex00/Chat/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex00/Chat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex00/Chat/src/main/java/edu/school21/chat/models/Chatroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex00/Chat/src/main/java/edu/school21/chat/models/Chatroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex00/Chat/src/main/java/edu/school21/chat/models/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex00/Chat/src/main/java/edu/school21/chat/models/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex00/Chat/src/main/java/edu/school21/chat/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex00/Chat/src/main/java/edu/school21/chat/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex00/Chat/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex00/Chat/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex00/Chat/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex00/Chat/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/app/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/app/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/app/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/models/Chatroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/models/Chatroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/models/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/models/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/repositories/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/repositories/MessageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/repositories/MessagesRepositoryJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/src/main/java/edu/school21/chat/repositories/MessagesRepositoryJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex02/Chat/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/target/classes/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/target/classes/edu/school21/chat/app/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/target/classes/edu/school21/chat/models/Chatroom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/target/classes/edu/school21/chat/models/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/target/classes/edu/school21/chat/models/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/target/classes/edu/school21/chat/repositories/MessageRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/target/classes/edu/school21/chat/repositories/MessagesRepositoryJdbcImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/target/classes/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ex02/Chat/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CTY9mE2czgvzAKl4BVOD66lXCB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/ksu/IdeaProjects/ex01test",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.school21.chat.app.Program" />
+      <module name="Chat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.school21.chat.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dffb8ac-c7f2-421b-a92a-469ba03e1eb9" name="Changes" comment="" />
+      <created>1658827895573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658827895573</updated>
+      <workItem from="1658832183151" duration="2650000" />
+      <workItem from="1658839704518" duration="1018000" />
+      <workItem from="1658842955970" duration="2254000" />
+      <workItem from="1658913993573" duration="865000" />
+      <workItem from="1658915232478" duration="311000" />
+      <workItem from="1658916624932" duration="7349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ex01test$Program.ic" NAME="Program Coverage Results" MODIFIED="1658829396134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.school21.chat.app.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+# delete existing target directory
+rm -rf target
+
+# create new target directory
+mkdir target
+
+# create new resources directory in target directory
+mkdir target/resources/
+
+# copy all *.bmp files from src/resources to target/resources/
+cp src/resources/* target/resources/
+
+# compile all .java file and place .class files in target directory
+# flag -d -- specify where to place generated class files
+javac -d ./target src/java/edu.school21.printer/*/*.java
+
+# flag c  -- create new archive
+# flag f  -- specify archive file
+# flag m  -- specify manifest file
+# flag C  -- change directory
+# . -- files from this directory and all subdirectories
+jar cfm ./target/images-to-chars-printer.jar src/manifest.txt -C ./target .
+
+# change access permissions
+# add rights (+) th execute (x) for user (u)
+chmod u+x target/images-to-chars-printer.jar
+
+# declare the path to .jar file and execute with args
+java -jar target/images-to-chars-printer.jar '.' '0'
